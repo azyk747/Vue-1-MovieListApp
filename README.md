@@ -1,6 +1,5 @@
 # Vue1-MovieListApp
-https://vue-1-movielistapp.netlify.app/
-
+https://vue1-movie-app.netlify.app/
 This template should help get you started developing with Vue 3 in Vite.
 
 ```sh
